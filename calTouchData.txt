@@ -1,0 +1,2 @@
+uint16_t calData[5] = { 280, 3600, 256, 3561, 7 };
+tft.setTouch(calData);
